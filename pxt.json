@@ -1,5 +1,5 @@
 {
-    "name": "Micro:Bit Testing",
+    "name": "Micro:Bit Transmitter",
     "description": "",
     "dependencies": {
         "core": "*",
