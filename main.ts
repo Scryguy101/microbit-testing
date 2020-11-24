@@ -1,5 +1,5 @@
 radio.setGroup(125)
-basic.showString("Z SENDER")
+basic.showString("SENDER")
 input.setAccelerometerRange(AcceleratorRange.EightG)
 basic.forever(function on_forever() {
     radio.sendNumber(input.acceleration(Dimension.Z))

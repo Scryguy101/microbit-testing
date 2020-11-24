@@ -1,5 +1,5 @@
 radio.set_group(125)
-basic.show_string("Z SENDER")
+basic.show_string("SENDER")
 input.set_accelerometer_range(AcceleratorRange.EIGHT_G)
 
 def on_forever():
